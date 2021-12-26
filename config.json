@@ -1,0 +1,9 @@
+{
+	"ip":"ragemp.minecraft.pe",
+	"port": 27764,
+	"name": "panda_leader",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (ffc12345@(ffc12345@))",
+	"login-cmd":"/login (ffc12345@)"
+}
